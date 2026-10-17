@@ -25,7 +25,7 @@ ESP32 DevKit, DHT22 sensor on D15, buzzer on D13
 | Back to normal | 26.5 °C, 66.5 % then 52.5 % | `"alarm":0`, alarm clears |
 
 ## Run it
-Live simulation: (paste your Wokwi link here)
+Live simulation: https://wokwi.com/projects/478154253136301057 
 
 ## Screenshots
 Normal operation:
